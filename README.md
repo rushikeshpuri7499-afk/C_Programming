@@ -1,30 +1,48 @@
-# 📚 Conceptual Programs
+<div align="center">
 
-> Building the foundation — one concept at a time!
+# 📘 C Programming
 
-This folder contains beginner-level C programs written while learning
-and understanding the core concepts of C Programming from scratch.
+![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Beginner%20→%20Advanced-orange?style=for-the-badge)
 
-## 💡 What's Inside?
-Programs based on:
-- Data Types & Variables (int, float, char, short, long)
-- Constants & Sizeof operator
-- Operators & Shorthand expressions
-- Input / Output (printf, scanf)
-- Selection (if-else, switch)
-- Iteration (for, while, do-while loops)
-- Functions (parameters, return values, recursion)
-- Arrays (1D, 2D)
-- Pointers & Address
-- Structures (declaration, array, pointer)
-- Dynamic Memory (malloc)
-- File Handling (create, open, read, write, close)
+*"C is the foundation. Master it and everything else becomes easier."*
 
-## 🎯 Goal
-To clearly understand every fundamental concept of C Programming
-before moving on to logical and advanced problem solving.
+</div>
 
-## 📈 Level
-Beginner → Intermediate
+---
 
-## 🗂️ Folder Structure
+## 🧠 About
+
+My complete **C Programming** journey from basics to advanced.
+Every program is written, tested and improved by me
+as part of my daily coding practice.
+
+---
+
+## 📁 Topics Covered
+
+- Data Types, Operators, I/O
+- Control Flow — Selection, Iteration
+- Functions, Arrays, Pointers
+- Structures, Dynamic Memory
+- File Handling, Storage Classes
+- Strings, Header Files
+
+---
+
+## 🔗 My Other Repos
+
+| Repository | Description |
+|---|---|
+| [📗 Cpp_Programming](https://github.com/rushikeshpuri7499-afk/Cpp_Programming) | C++ concepts |
+| [📙 Java_Programming](https://github.com/rushikeshpuri7499-afk/Java_Programming) | Java concepts |
+| [🚀 Programming_Journey](https://github.com/rushikeshpuri7499-afk/Programming_Journey) | 1000+ logical programs |
+
+---
+
+<div align="center">
+
+**Rushikesh Puri | Pune, India | Since April 2026**
+
+</div>
